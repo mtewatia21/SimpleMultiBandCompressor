@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="ygcQtU" name="Simple_Multi_Band_Compressor" projectType="audioplug"
               useAppConfig="0" addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1"
-              cppLanguageStandard="17">
+              cppLanguageStandard="17" pluginManufacturer="TrixairMusica LLC">
   <MAINGROUP id="sqAwml" name="Simple_Multi_Band_Compressor">
     <GROUP id="{6334D36C-7431-0FA7-292D-84D19D69E5EF}" name="Source">
       <FILE id="BqYef0" name="PluginProcessor.cpp" compile="1" resource="0"
